@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.encabezado{
+    width: 100%;
+    height: 250px;
+}
+
+.navbar{ 
+    display: flex;
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+
+
+.menu{
+    margin-top: 35px;
+    margin-left: 400px;
+    width: 400px;
+    float: left;
+    height: 70px;
+    
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #0e0c0c;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+.baner{ 
+    margin-top: -125px;
+    width: 100%;
+    height: 80px;
+    
+    
+}
+
+h1{
+    margin-left: 1210px;
+}
+
+.cuenta{
+    background-color: aqua;
+    margin-top: -50px;
+    float: right;
+    
+}
+
+.titulo{
+    background-color: aquamarine;
+    width:100%;
+    height: 50px;
+  
+}
+
+.titulo p{
+    text-align: center;
+    font-size: 30px;
+}
+
+.titulo h2{
+    text-align: center;
+}
+
+.opciones{
+    width: 100%;
+    height: 450px;
+   
+
+}
+
+.contenedores{
+    background-color: blueviolet;
+    width: 100px;
+    height: 60px;
+    list-style: none;
+    float: left;
+    margin-left: 250px;
+    margin-top: 100px;
+    
+}
+.imagen{
+    margin-top: -230px;
+    margin-left: 8px ;
+}
