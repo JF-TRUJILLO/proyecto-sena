@@ -11,10 +11,10 @@ nav {
  
   .boton2 {
     position: absolute;
-width: 146px;
-height: 32px;
-left: 1495.53px;
-top: 65.59px;
+    width: 240px;
+    height: 32px;
+    left: 1495.53px;
+    top: 65.59px;
 
 
     
@@ -22,10 +22,10 @@ top: 65.59px;
 
   .boton1 {
     position: absolute;
-width: 146px;
-height: 32px;
-left: 1208.76px;
-top: 64.15px;
+    width: 240px;
+    height: 32px;
+    left: 1208.76px;
+    top: 64.15px;
 
 
 
@@ -44,6 +44,7 @@ top: 64.15px;
     transition: all 0.3s ease 0s;
     cursor: pointer;
     outline: none;
+    
   }
   
   button:hover {
